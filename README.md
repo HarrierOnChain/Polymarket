@@ -13,6 +13,19 @@
 
 ---
 
+## Live on Polymarket
+
+<div align="center">
+
+<img width="820" alt="Polymarket trading bot TUI" src="https://github.com/user-attachments/assets/b6c51ba1-14c6-4582-858c-e9441516dd1d" />
+<img width="820" alt="Polymarket trading bot TUI" src="https://github.com/user-attachments/assets/66d9cb72-e14a-414f-93e5-600fb1d3f49f" />
+
+<sub>The shared TUI running against Polymarket — live positions, P&L, and circuit-breaker state. <!-- TODO: swap in Polymarket-specific captures --></sub>
+
+</div>
+
+---
+
 ## Strategies on Polymarket
 
 These bots run on Polymarket through a single venue adapter on the shared engine — same risk controls, same TUI, full dry-run support.
