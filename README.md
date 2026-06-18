@@ -6,6 +6,7 @@
 [![Engine](https://img.shields.io/badge/engine-shared_core-6e40c9?style=flat-square)](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![CI](https://github.com/HarrierOnChain/Polymarket/actions/workflows/ci.yml/badge.svg)](https://github.com/HarrierOnChain/Polymarket/actions/workflows/ci.yml)
 
 > Automated **Polymarket trading bot** — Decentralized (Polygon / USDC). Part of the [Prediction Market Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits) suite: one execution core, one risk layer, every venue.
 

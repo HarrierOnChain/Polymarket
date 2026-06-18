@@ -1,4 +1,3 @@
 /target
-# Real configs hold secrets — keep only the examples.
+# Credentials hold secrets — never commit the filled-in copy.
 config.yaml
-config.json
