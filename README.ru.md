@@ -49,6 +49,20 @@
 
 ---
 
+## Быстрый старт
+
+Клонируйте, добавьте ключи и запустите — TUI даст выбрать стратегию.
+
+```bash
+git clone https://github.com/HarrierOnChain/Polymarket.git
+cd Polymarket
+cp config.example.yaml config.yaml   # add your keys
+cargo run --release                  # launch the TUI
+# headless: cargo run --release -- run copy-trading
+```
+
+---
+
 ## Один движок, все площадки
 
 Этот репозиторий — точка входа для **Polymarket**. Ядро исполнения, слой риска и все 20+ адаптеров площадок находятся в основном наборе:

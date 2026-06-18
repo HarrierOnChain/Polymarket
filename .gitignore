@@ -1,0 +1,4 @@
+/target
+# Real configs hold secrets — keep only the examples.
+config.yaml
+config.json
