@@ -38,7 +38,7 @@ These bots run on Polymarket through a single venue adapter on the shared engine
 | 🎯 **Copy Trading** — mirror wallets that already proved they have alpha |
 | ⚡ **BTC 5m / 15m / 1hr Arbitrage** — speed on short-window BTC Up/Down (~42ms end-to-end) |
 | 💰 **Cross-Market Arbitrage** — lock the spread, not the direction |
-| 🎯 **Direction Hunting** — define the edge once, the engine grinds 24/7 (auto TP + SL) |
+| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
 | 📈 **Spread Farming** — a thousand 0.5¢ wins compound into one number |
 | 🏆 **Sports Execution** — click, filled, done — under 50ms FAK |
 | 🎯 **Resolution Sniper** — 95¢ near-certainty → guaranteed $1.00 payout |

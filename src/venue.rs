@@ -14,7 +14,7 @@ pub const STRATEGIES: &[&str] = &[
     "Copy Trading",
     "BTC 5m / 15m / 1hr Arbitrage",
     "Cross-Market Arbitrage",
-    "Direction Hunting",
+    "Directional Arbitrage",
     "Spread Farming",
     "Sports Execution",
     "Resolution Sniper",
